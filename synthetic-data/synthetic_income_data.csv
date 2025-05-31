@@ -1,0 +1,1001 @@
+age,education_level,employment_type,region,night_light,gov_subsidy,electricity_access,repayment_status
+56,No formal,Unemployed,Rural,81.1112400462496,0,1,Poor
+46,High School,Unemployed,Rural,36.20923112620365,1,0,Poor
+32,Graduate,Salaried,Semi-urban,12.045687158805052,0,1,Good
+25,Graduate,Unemployed,Rural,45.70993667179834,1,1,Poor
+38,No formal,Casual,Rural,66.51439452497857,0,1,Poor
+56,Primary,Salaried,Semi-urban,79.37521181330891,0,0,Good
+36,High School,Self-employed,Semi-urban,31.55675608321375,1,0,Medium
+40,High School,Salaried,Semi-urban,57.45048834854782,0,0,Good
+28,High School,Casual,Rural,43.0203431482992,0,1,Poor
+28,High School,Casual,Urban,48.410774685437964,1,0,Poor
+41,Graduate,Salaried,Urban,89.66515020525551,0,0,Good
+53,Graduate,Salaried,Semi-urban,27.455445074072703,1,1,Good
+57,Primary,Unemployed,Urban,53.8060949224186,1,1,Poor
+41,High School,Casual,Semi-urban,57.0153975764815,1,1,Poor
+20,High School,Salaried,Rural,66.2867948740902,1,1,Good
+39,No formal,Salaried,Urban,51.46974730206343,1,1,Good
+19,Graduate,Casual,Rural,54.62075809256154,0,1,Poor
+41,High School,Salaried,Urban,44.125271488673135,0,0,Good
+47,Primary,Unemployed,Rural,54.03690411867661,0,1,Poor
+55,Primary,Casual,Urban,44.85211586753884,1,0,Poor
+19,Graduate,Unemployed,Rural,59.323578347840765,1,0,Poor
+38,Primary,Unemployed,Rural,44.45584495934549,1,0,Poor
+50,Primary,Unemployed,Urban,55.65650590853279,1,1,Poor
+29,Graduate,Unemployed,Rural,49.56105779472532,0,0,Poor
+39,High School,Casual,Rural,66.89075376158252,0,1,Poor
+42,High School,Unemployed,Rural,49.229094146172706,1,1,Poor
+44,Primary,Unemployed,Urban,23.40451297689678,1,0,Poor
+59,Primary,Salaried,Urban,68.92882251070988,0,1,Good
+45,High School,Casual,Rural,36.414015487060716,1,0,Poor
+33,Graduate,Casual,Rural,40.1935049202677,1,0,Poor
+32,Primary,Self-employed,Urban,41.065080589347616,1,1,Medium
+20,No formal,Casual,Urban,70.61657139756227,0,0,Poor
+54,Graduate,Casual,Rural,17.964886790319568,0,0,Poor
+24,Primary,Self-employed,Rural,97.0662280048999,1,0,Medium
+38,Primary,Casual,Rural,65.84085213599077,0,1,Poor
+26,No formal,Casual,Semi-urban,53.348583711937394,1,0,Poor
+56,No formal,Casual,Urban,49.1765899907557,1,1,Poor
+35,High School,Casual,Semi-urban,54.28331112286485,0,1,Poor
+21,Graduate,Self-employed,Urban,57.81683642569008,1,0,Medium
+42,Graduate,Casual,Urban,59.678233789250854,1,0,Poor
+31,High School,Casual,Urban,58.334066990051724,0,1,Poor
+26,Graduate,Self-employed,Urban,51.34371021882873,1,1,Medium
+43,Graduate,Salaried,Urban,47.03992369539011,1,0,Good
+19,Graduate,Unemployed,Urban,47.730900745197324,1,0,Poor
+37,Graduate,Salaried,Urban,47.07637579470978,0,1,Good
+45,Graduate,Self-employed,Semi-urban,67.00655145300597,1,1,Medium
+24,No formal,Unemployed,Rural,58.90335083421293,0,1,Poor
+25,Graduate,Self-employed,Rural,5.894170480035797,1,1,Medium
+52,No formal,Self-employed,Semi-urban,59.83851164794642,1,1,Medium
+31,Graduate,Casual,Semi-urban,52.92104292078162,1,0,Poor
+34,High School,Unemployed,Semi-urban,49.71936865331154,1,1,Poor
+53,Primary,Casual,Semi-urban,44.17222320366671,0,1,Poor
+57,No formal,Unemployed,Urban,66.86169079979021,0,0,Poor
+21,Graduate,Self-employed,Rural,64.21289693184286,1,0,Medium
+19,High School,Self-employed,Urban,38.40683498264586,1,1,Medium
+23,Primary,Salaried,Rural,56.105784306868024,1,1,Good
+59,No formal,Unemployed,Rural,35.42514898188071,1,0,Poor
+21,Primary,Casual,Semi-urban,29.30572752816604,1,1,Poor
+46,High School,Salaried,Urban,40.59924163115052,1,1,Good
+35,No formal,Salaried,Semi-urban,62.93590208574138,1,0,Good
+43,Primary,Salaried,Urban,64.2968756806413,1,1,Good
+51,Graduate,Casual,Rural,57.69628130145939,0,0,Poor
+27,No formal,Salaried,Semi-urban,60.87643680271996,0,0,Good
+53,Primary,Casual,Semi-urban,57.742674306724375,0,0,Poor
+31,High School,Salaried,Rural,40.37777607165572,1,0,Good
+48,High School,Casual,Rural,56.47883817010911,1,1,Poor
+32,No formal,Self-employed,Rural,62.00614287841523,1,0,Medium
+25,Primary,Self-employed,Semi-urban,61.314369947203616,0,1,Poor
+31,No formal,Self-employed,Urban,67.83370057211964,1,1,Medium
+40,No formal,Self-employed,Semi-urban,60.624557708015956,0,1,Poor
+57,Primary,Self-employed,Urban,55.27172311312374,1,1,Medium
+38,Primary,Salaried,Semi-urban,66.05225357474642,0,1,Good
+33,Graduate,Salaried,Semi-urban,49.6021811112641,0,0,Good
+35,Primary,Salaried,Rural,36.771880231584234,0,0,Good
+41,High School,Casual,Urban,47.553995540843545,1,0,Poor
+43,No formal,Casual,Semi-urban,38.82646032790326,0,0,Poor
+42,No formal,Casual,Semi-urban,39.87232587538428,1,1,Poor
+58,High School,Casual,Rural,47.83221993926723,1,0,Poor
+46,Primary,Self-employed,Rural,38.11370118500058,1,1,Medium
+32,High School,Self-employed,Urban,45.38057705541439,1,1,Medium
+18,High School,Self-employed,Semi-urban,21.595779995693213,1,0,Medium
+42,Graduate,Unemployed,Urban,53.19940561059408,0,0,Poor
+24,High School,Salaried,Semi-urban,50.01808213043336,1,0,Good
+26,No formal,Casual,Urban,37.74367053397714,1,0,Poor
+41,High School,Casual,Rural,59.88868502648607,1,1,Poor
+18,No formal,Self-employed,Semi-urban,64.06355206439838,1,1,Medium
+25,No formal,Casual,Urban,25.886602034465387,1,0,Poor
+41,No formal,Casual,Rural,38.55912832150679,0,1,Poor
+28,Primary,Salaried,Rural,38.46286475319053,0,1,Good
+34,Graduate,Self-employed,Urban,35.90145348336703,1,1,Medium
+25,No formal,Salaried,Semi-urban,62.44212262897623,0,0,Good
+52,No formal,Unemployed,Semi-urban,47.09260791840795,0,1,Poor
+52,Primary,Unemployed,Rural,46.03227738034084,1,0,Poor
+50,No formal,Unemployed,Semi-urban,19.942064533898698,0,0,Poor
+22,High School,Self-employed,Semi-urban,59.5312704531384,1,1,Medium
+59,High School,Casual,Semi-urban,31.41112407719791,0,1,Poor
+56,Graduate,Self-employed,Rural,50.89898945399492,0,0,Poor
+58,No formal,Self-employed,Urban,54.160654069372875,0,1,Poor
+45,Primary,Casual,Semi-urban,70.40987893757976,1,1,Poor
+24,High School,Salaried,Rural,30.36769401321332,0,0,Good
+26,Primary,Unemployed,Rural,4.707317662687622,0,0,Poor
+25,Primary,Salaried,Urban,52.75774317130542,1,0,Good
+29,High School,Unemployed,Semi-urban,77.0076677226628,1,0,Poor
+51,Primary,Self-employed,Semi-urban,68.58419529409156,0,1,Poor
+50,High School,Unemployed,Urban,53.14489122911939,1,1,Poor
+40,Primary,Self-employed,Urban,42.62545721551929,0,0,Poor
+41,High School,Salaried,Rural,62.10683894955966,0,0,Good
+54,No formal,Self-employed,Rural,35.39680700443297,1,0,Medium
+52,Graduate,Salaried,Urban,57.14536654034329,1,1,Good
+57,High School,Casual,Semi-urban,57.5820523874994,1,0,Poor
+39,High School,Casual,Rural,65.90314861248319,0,1,Poor
+44,Graduate,Casual,Rural,91.39490058366616,1,0,Poor
+52,High School,Self-employed,Semi-urban,55.88623950768151,0,0,Poor
+18,High School,Casual,Rural,42.36554561438752,1,0,Poor
+52,Primary,Unemployed,Semi-urban,49.616385317120084,0,1,Poor
+54,Graduate,Salaried,Semi-urban,23.463861426663225,1,1,Good
+31,No formal,Salaried,Semi-urban,39.579303033664125,0,1,Good
+20,High School,Unemployed,Urban,43.86076342830344,1,0,Poor
+18,Graduate,Self-employed,Urban,42.138674030981115,0,1,Poor
+22,Primary,Self-employed,Urban,52.28532308050583,1,1,Medium
+43,No formal,Salaried,Semi-urban,37.66370101426699,1,0,Good
+31,Graduate,Casual,Semi-urban,66.81546000986707,0,0,Poor
+56,No formal,Self-employed,Urban,50.00310597377295,1,1,Medium
+44,No formal,Self-employed,Rural,49.860495182920786,0,1,Poor
+26,No formal,Unemployed,Semi-urban,45.081579252306234,0,1,Poor
+32,High School,Unemployed,Rural,52.32786025788469,1,1,Poor
+32,High School,Casual,Rural,62.37647397001452,0,0,Poor
+43,Primary,Self-employed,Semi-urban,36.9930467643365,1,0,Medium
+59,Primary,Self-employed,Semi-urban,40.12825266387115,1,0,Medium
+30,Graduate,Unemployed,Rural,45.44410956835003,0,1,Poor
+49,Primary,Self-employed,Rural,29.811936147901775,1,1,Medium
+56,No formal,Salaried,Urban,37.71113210417754,0,0,Good
+49,No formal,Unemployed,Urban,42.85668689683011,0,0,Poor
+21,High School,Casual,Semi-urban,63.11583771069091,1,1,Poor
+47,No formal,Unemployed,Urban,53.938419935028875,1,1,Poor
+54,Graduate,Self-employed,Urban,52.90384867051316,0,0,Poor
+40,No formal,Casual,Urban,62.763469432519585,0,0,Poor
+56,No formal,Unemployed,Urban,47.93942317400905,1,0,Poor
+32,Graduate,Salaried,Rural,55.856972748933345,1,1,Good
+46,Primary,Salaried,Semi-urban,48.451673706012556,1,1,Good
+53,Primary,Unemployed,Urban,53.980435240994424,1,1,Poor
+30,Graduate,Salaried,Rural,41.25862013582627,0,1,Good
+49,High School,Salaried,Rural,13.417742625853563,1,1,Good
+24,No formal,Salaried,Rural,47.985812567205436,0,1,Good
+39,Graduate,Casual,Urban,71.3412220414991,0,0,Poor
+45,No formal,Salaried,Urban,63.893231033623884,1,0,Good
+19,High School,Salaried,Semi-urban,64.48096226886756,0,1,Good
+59,No formal,Salaried,Urban,68.54196082709326,1,0,Good
+23,Graduate,Casual,Urban,51.32986386442156,0,1,Poor
+45,No formal,Unemployed,Rural,52.959735611083936,1,0,Poor
+45,Primary,Self-employed,Semi-urban,40.73522156848475,0,1,Poor
+37,High School,Salaried,Urban,45.25890715959425,0,0,Good
+47,High School,Unemployed,Urban,59.23656724656712,1,0,Poor
+28,High School,Salaried,Rural,68.05826655753225,1,1,Good
+45,Graduate,Casual,Rural,47.90830586478501,0,1,Poor
+42,High School,Unemployed,Urban,43.24716102722883,0,0,Poor
+56,Primary,Casual,Semi-urban,50.00791938284896,1,0,Poor
+50,Graduate,Salaried,Semi-urban,59.01810123393672,0,1,Good
+18,Primary,Salaried,Rural,28.342177757996872,1,0,Good
+44,No formal,Casual,Rural,15.557285702941428,0,1,Poor
+30,No formal,Self-employed,Urban,41.74194725762625,1,1,Medium
+58,No formal,Casual,Rural,31.68931361128762,0,0,Poor
+20,No formal,Salaried,Urban,42.37789703529034,1,1,Good
+56,Primary,Casual,Semi-urban,47.78329521773793,1,0,Poor
+23,Graduate,Self-employed,Semi-urban,43.2012738646548,0,0,Poor
+25,Graduate,Casual,Urban,71.78701301706118,1,1,Poor
+44,High School,Self-employed,Rural,54.9011714690348,0,0,Poor
+26,Primary,Self-employed,Semi-urban,54.507115394162426,1,1,Medium
+54,No formal,Casual,Rural,59.333107160651025,1,1,Poor
+50,Primary,Casual,Semi-urban,32.917503233288464,1,1,Poor
+59,High School,Unemployed,Urban,65.58667681130403,0,0,Poor
+41,High School,Salaried,Urban,48.863535701968104,1,1,Good
+32,Primary,Self-employed,Urban,60.05720925861819,0,0,Poor
+49,Primary,Unemployed,Semi-urban,33.92214150439767,1,1,Poor
+49,Primary,Casual,Rural,26.693618509759034,0,1,Poor
+41,Graduate,Salaried,Rural,62.26834487037543,0,1,Good
+58,No formal,Unemployed,Rural,55.64614289146275,0,0,Poor
+29,Primary,Self-employed,Semi-urban,36.46922668463735,1,0,Medium
+56,Primary,Unemployed,Semi-urban,36.95505378087958,0,1,Poor
+19,Primary,Self-employed,Semi-urban,66.88152176622154,1,1,Medium
+20,High School,Casual,Semi-urban,32.15882160699008,0,0,Poor
+54,High School,Salaried,Semi-urban,74.64009429883944,0,0,Good
+34,Graduate,Salaried,Rural,36.49068898028197,0,0,Good
+19,No formal,Salaried,Semi-urban,59.57587888412574,0,1,Good
+19,Graduate,Casual,Semi-urban,45.07072286376523,1,0,Poor
+45,No formal,Self-employed,Rural,59.047811466235146,0,1,Poor
+40,High School,Casual,Semi-urban,41.838289968287114,0,0,Poor
+54,High School,Salaried,Rural,47.558106408915584,1,1,Good
+49,High School,Casual,Rural,50.61378763093582,0,1,Poor
+50,Graduate,Casual,Urban,34.96718816327791,0,1,Poor
+18,Primary,Casual,Urban,61.11236518130189,0,0,Poor
+36,Primary,Self-employed,Urban,42.30179650292622,0,0,Poor
+19,High School,Unemployed,Urban,46.571001269899725,1,0,Poor
+43,Primary,Unemployed,Semi-urban,35.08475938087231,1,1,Poor
+49,Primary,Casual,Urban,11.564995118070343,0,1,Poor
+23,Graduate,Unemployed,Rural,47.13458356099746,1,0,Poor
+49,No formal,Unemployed,Semi-urban,86.18923132419374,1,1,Poor
+21,High School,Casual,Urban,61.769064318470356,0,1,Poor
+28,High School,Casual,Rural,49.71109430398408,1,1,Poor
+34,Graduate,Salaried,Semi-urban,46.05663756187599,0,0,Good
+55,Graduate,Unemployed,Semi-urban,50.33698839218069,1,1,Poor
+41,Primary,Self-employed,Urban,58.20678672762815,1,0,Medium
+22,High School,Casual,Semi-urban,32.28780777036732,1,0,Poor
+51,No formal,Salaried,Rural,66.71482542003308,0,0,Good
+23,Graduate,Self-employed,Semi-urban,60.73071973161866,1,0,Medium
+39,No formal,Unemployed,Rural,60.772785885619015,0,0,Poor
+28,No formal,Salaried,Semi-urban,56.57713608214591,0,1,Good
+33,High School,Casual,Urban,50.294249865409846,1,0,Poor
+50,High School,Self-employed,Rural,60.0929185395023,0,0,Poor
+26,Graduate,Casual,Semi-urban,58.87721200612067,1,0,Poor
+23,High School,Unemployed,Semi-urban,44.68938933588464,0,1,Poor
+33,High School,Self-employed,Semi-urban,41.39597340654649,0,1,Poor
+46,High School,Unemployed,Rural,51.527844428929804,1,1,Poor
+20,No formal,Unemployed,Rural,73.23530227242782,1,1,Poor
+37,Graduate,Salaried,Rural,31.413393865191487,1,0,Good
+53,Primary,Casual,Urban,27.9871210137134,1,0,Poor
+36,No formal,Self-employed,Urban,52.47141261854775,0,1,Poor
+43,High School,Unemployed,Rural,50.76331552784027,0,1,Poor
+20,No formal,Unemployed,Semi-urban,52.60012496555612,0,1,Poor
+36,High School,Self-employed,Urban,53.659297968627506,1,1,Medium
+37,High School,Unemployed,Rural,46.65196618047792,0,0,Poor
+49,No formal,Salaried,Semi-urban,72.34795157903123,1,1,Good
+24,Graduate,Salaried,Urban,25.986440322852268,0,1,Good
+58,High School,Salaried,Semi-urban,37.57254462829631,1,1,Good
+50,Graduate,Salaried,Semi-urban,48.45117859776429,0,1,Good
+57,Primary,Unemployed,Semi-urban,25.352167832687492,0,1,Poor
+56,High School,Self-employed,Semi-urban,47.362183933518935,1,1,Medium
+35,Graduate,Self-employed,Urban,74.92205248592028,0,1,Poor
+57,Graduate,Self-employed,Urban,50.313297324439425,1,0,Medium
+18,Primary,Self-employed,Urban,53.460513585780255,0,0,Poor
+28,Graduate,Casual,Rural,31.097528522411295,0,0,Poor
+45,Graduate,Self-employed,Urban,40.75457887940784,1,0,Medium
+42,Primary,Casual,Semi-urban,44.37205429514094,1,0,Poor
+40,High School,Casual,Urban,45.23427354865649,0,0,Poor
+48,Graduate,Salaried,Semi-urban,69.22465692505654,0,1,Good
+47,Graduate,Casual,Rural,58.36536591087687,0,1,Poor
+59,Graduate,Unemployed,Semi-urban,33.32813064594452,0,0,Poor
+52,No formal,Casual,Semi-urban,53.697571676480074,0,1,Poor
+24,Primary,Salaried,Semi-urban,57.47332622745178,0,0,Good
+33,No formal,Casual,Rural,67.102235577819,1,1,Poor
+43,Primary,Unemployed,Urban,73.70811029852561,1,1,Poor
+19,High School,Unemployed,Urban,34.77358712258197,1,1,Poor
+18,High School,Unemployed,Rural,37.83713733184493,0,1,Poor
+29,Graduate,Salaried,Semi-urban,31.136332116280755,0,1,Good
+22,Primary,Salaried,Urban,46.48970211339528,0,1,Good
+54,High School,Self-employed,Rural,56.995375616695014,1,0,Medium
+49,Primary,Salaried,Urban,64.81001774883653,1,0,Good
+26,High School,Unemployed,Rural,48.86073464536216,0,1,Poor
+58,No formal,Unemployed,Semi-urban,45.202287151177345,0,0,Poor
+52,High School,Salaried,Urban,52.27636988373111,1,1,Good
+36,No formal,Casual,Rural,37.472856475549655,1,0,Poor
+33,High School,Salaried,Urban,81.3430808254216,1,1,Good
+20,Graduate,Salaried,Urban,25.88508459322912,0,0,Good
+37,No formal,Unemployed,Urban,52.77110868343587,0,1,Poor
+41,High School,Self-employed,Urban,80.35409328844459,0,0,Poor
+50,Graduate,Unemployed,Rural,50.10199766839997,1,1,Poor
+41,No formal,Self-employed,Semi-urban,47.14941447497758,1,0,Medium
+28,Graduate,Unemployed,Rural,44.63831865784359,0,1,Poor
+25,Primary,Salaried,Rural,47.29412477356388,0,1,Good
+53,Primary,Unemployed,Rural,70.59272712014796,1,1,Poor
+55,No formal,Unemployed,Semi-urban,16.822071330057398,0,0,Poor
+57,High School,Unemployed,Urban,73.00150551944489,1,0,Poor
+37,No formal,Salaried,Urban,28.640642713247825,1,0,Good
+52,Graduate,Salaried,Urban,46.00021506148378,0,1,Good
+42,High School,Salaried,Semi-urban,43.56133369552008,1,0,Good
+52,Primary,Salaried,Urban,58.828299046560794,0,1,Good
+42,High School,Self-employed,Semi-urban,26.028134721743786,1,0,Medium
+46,Primary,Self-employed,Urban,56.93258999122914,1,0,Medium
+35,High School,Casual,Urban,80.36464434930278,0,0,Poor
+35,High School,Salaried,Rural,29.552389931107843,1,0,Good
+19,High School,Self-employed,Semi-urban,52.84559251415593,0,1,Poor
+52,Graduate,Unemployed,Rural,40.070267333050865,0,0,Poor
+33,Graduate,Salaried,Rural,56.388308092895535,1,0,Good
+58,No formal,Casual,Rural,50.28721666123628,0,1,Poor
+53,No formal,Casual,Semi-urban,40.37769636433536,0,1,Poor
+50,Primary,Casual,Semi-urban,57.31808427306611,0,0,Poor
+21,Graduate,Unemployed,Urban,77.06522164680115,0,0,Poor
+50,Primary,Self-employed,Rural,47.13644312409052,0,1,Poor
+31,No formal,Unemployed,Urban,60.79636913222273,0,1,Poor
+38,Primary,Salaried,Rural,30.600905631932545,1,1,Good
+37,No formal,Casual,Semi-urban,35.65345434772987,0,0,Poor
+25,Graduate,Unemployed,Semi-urban,57.08609416820566,1,0,Poor
+24,High School,Unemployed,Semi-urban,72.26174042803947,1,0,Poor
+20,Graduate,Self-employed,Rural,55.3342002317849,0,1,Poor
+34,Primary,Self-employed,Semi-urban,45.30412954215269,1,1,Medium
+50,Primary,Casual,Rural,49.98937108135031,1,1,Poor
+29,Graduate,Unemployed,Urban,31.243883990454236,0,0,Poor
+39,Graduate,Unemployed,Rural,59.0677298953305,0,1,Poor
+39,No formal,Self-employed,Urban,63.234995934851135,0,0,Poor
+47,Primary,Unemployed,Rural,43.218645007503795,1,1,Poor
+55,Primary,Unemployed,Urban,42.94936778360748,1,0,Poor
+55,Graduate,Unemployed,Semi-urban,53.98817344478073,0,0,Poor
+25,High School,Self-employed,Urban,43.44920395939107,0,1,Poor
+44,Primary,Casual,Semi-urban,49.008010780612665,1,0,Poor
+44,High School,Salaried,Semi-urban,81.49582683749773,1,1,Good
+51,Graduate,Casual,Urban,46.29461448881005,1,0,Poor
+38,Graduate,Salaried,Rural,44.62489771968167,1,1,Good
+47,No formal,Unemployed,Rural,40.286872915472614,0,1,Poor
+50,Primary,Casual,Rural,61.16287957249905,1,0,Poor
+45,High School,Salaried,Rural,47.28163740172845,1,1,Good
+50,No formal,Self-employed,Rural,40.25940442517861,1,0,Medium
+22,Primary,Self-employed,Semi-urban,69.81956048409518,1,1,Medium
+36,No formal,Casual,Rural,71.29404506770456,0,1,Poor
+21,Graduate,Casual,Semi-urban,40.99364651391942,0,1,Poor
+52,Primary,Unemployed,Semi-urban,22.001900729590755,1,1,Poor
+34,No formal,Casual,Semi-urban,65.11270534755383,1,0,Poor
+45,No formal,Unemployed,Urban,39.73055261359994,0,1,Poor
+47,High School,Unemployed,Urban,61.85938398744153,0,1,Poor
+46,No formal,Self-employed,Semi-urban,20.448442734322466,1,0,Medium
+23,Primary,Self-employed,Urban,63.38896007448964,1,0,Medium
+52,Primary,Salaried,Rural,31.83242106078828,0,0,Good
+58,High School,Self-employed,Rural,60.96146178599787,0,0,Poor
+54,Primary,Self-employed,Semi-urban,50.21409601754651,0,0,Poor
+41,Graduate,Casual,Rural,35.690908709050326,0,0,Poor
+46,Primary,Self-employed,Semi-urban,43.894455306098294,0,1,Poor
+48,Primary,Salaried,Semi-urban,60.294776854350516,0,0,Good
+52,No formal,Casual,Rural,51.58841679672852,1,1,Poor
+50,No formal,Salaried,Urban,58.766194707087266,0,0,Good
+38,Primary,Self-employed,Rural,79.64660876773229,0,1,Poor
+49,High School,Salaried,Rural,26.53637582433423,0,1,Good
+40,No formal,Casual,Semi-urban,74.25818862452937,0,1,Poor
+50,High School,Unemployed,Semi-urban,51.565339062848196,1,0,Poor
+20,Primary,Salaried,Semi-urban,36.51823927515308,1,0,Good
+35,Primary,Salaried,Semi-urban,30.04529561391515,0,0,Good
+42,Graduate,Casual,Urban,47.163194138344494,1,0,Poor
+59,No formal,Casual,Urban,63.82475167886689,1,1,Poor
+48,Primary,Salaried,Urban,48.08676319433699,1,0,Good
+20,Graduate,Self-employed,Semi-urban,72.66732395371021,1,1,Medium
+57,No formal,Salaried,Semi-urban,28.232364649226618,1,1,Good
+41,Primary,Casual,Semi-urban,49.81866578230918,1,0,Poor
+49,Primary,Unemployed,Urban,31.214098333803214,0,0,Poor
+39,No formal,Unemployed,Semi-urban,55.45447823937452,0,0,Poor
+40,No formal,Self-employed,Rural,63.30331085145951,0,1,Poor
+19,No formal,Salaried,Rural,43.6885730947842,0,0,Good
+44,Primary,Unemployed,Semi-urban,10.936792150592986,0,1,Poor
+59,Primary,Salaried,Rural,52.98422220194742,1,0,Good
+19,Graduate,Casual,Rural,56.55107827600264,0,1,Poor
+43,High School,Unemployed,Urban,56.06442132442547,0,0,Poor
+34,No formal,Self-employed,Semi-urban,68.53673287733231,1,0,Medium
+57,Primary,Casual,Semi-urban,33.93419480526427,1,1,Poor
+50,Primary,Self-employed,Urban,60.20324158175674,0,0,Poor
+26,No formal,Casual,Rural,67.88761268716962,1,0,Poor
+56,High School,Unemployed,Rural,23.321186239902246,1,0,Poor
+46,No formal,Self-employed,Semi-urban,54.79477738878466,1,0,Medium
+59,High School,Self-employed,Rural,42.43730253488493,1,0,Medium
+43,Primary,Casual,Urban,48.77715990347531,0,0,Poor
+52,High School,Self-employed,Urban,55.215147253075045,1,0,Medium
+42,Graduate,Casual,Semi-urban,42.691571538296714,0,1,Poor
+41,Primary,Casual,Urban,39.86437881257582,0,1,Poor
+30,Graduate,Casual,Urban,50.512286262320366,1,0,Poor
+24,No formal,Casual,Semi-urban,33.69131091705796,1,0,Poor
+53,No formal,Unemployed,Urban,33.712623066722216,1,0,Poor
+37,No formal,Casual,Urban,60.19059924434755,0,1,Poor
+18,High School,Salaried,Urban,32.76808947262016,1,1,Good
+25,Primary,Self-employed,Rural,59.994687513638176,1,0,Medium
+33,No formal,Salaried,Semi-urban,56.938869392809266,1,1,Good
+31,No formal,Unemployed,Semi-urban,24.11289906814105,1,0,Poor
+29,Primary,Salaried,Semi-urban,39.83653021496517,1,0,Good
+40,No formal,Self-employed,Rural,67.91164104571058,0,0,Poor
+32,Graduate,Salaried,Rural,35.28251703290478,1,0,Good
+45,Primary,Unemployed,Semi-urban,43.033936065359185,1,1,Poor
+51,Primary,Casual,Rural,56.93091339877844,1,1,Poor
+19,Primary,Salaried,Semi-urban,61.75085763923893,0,0,Good
+49,Graduate,Unemployed,Rural,46.22691670933256,1,1,Poor
+40,Primary,Unemployed,Urban,41.03734707962538,0,1,Poor
+39,Graduate,Self-employed,Urban,71.33554792547761,0,0,Poor
+42,Primary,Self-employed,Semi-urban,76.08349495696368,1,1,Medium
+39,High School,Salaried,Rural,64.68287076172693,1,0,Good
+39,No formal,Casual,Rural,51.27977213847536,1,0,Poor
+59,High School,Unemployed,Urban,37.8760141753861,0,0,Poor
+23,No formal,Salaried,Urban,37.54333390165152,0,0,Good
+32,Graduate,Unemployed,Rural,57.837711578986365,0,1,Poor
+54,High School,Unemployed,Rural,56.275973313330255,0,0,Poor
+50,Primary,Casual,Rural,71.02397889419645,0,1,Poor
+25,No formal,Casual,Rural,59.75675138804209,0,0,Poor
+22,No formal,Salaried,Rural,27.45379547360273,1,0,Good
+56,High School,Casual,Rural,65.77921426584378,1,1,Poor
+21,Graduate,Casual,Semi-urban,35.02909059028381,0,0,Poor
+23,High School,Salaried,Rural,44.24043092071473,1,1,Good
+49,Graduate,Casual,Urban,53.75300309377542,1,1,Poor
+47,Graduate,Self-employed,Semi-urban,79.93501234675946,0,0,Poor
+52,No formal,Unemployed,Rural,96.64877834008041,0,0,Poor
+57,High School,Unemployed,Urban,59.10084588704274,1,0,Poor
+33,High School,Unemployed,Semi-urban,47.25205071919418,0,0,Poor
+30,Graduate,Unemployed,Urban,58.01758472720825,0,0,Poor
+59,High School,Salaried,Rural,63.31483138810754,1,0,Good
+47,Primary,Unemployed,Rural,45.189985616642126,0,1,Poor
+36,Primary,Unemployed,Rural,76.92817033868484,1,1,Poor
+34,High School,Unemployed,Rural,53.45106138787103,1,0,Poor
+36,High School,Unemployed,Semi-urban,57.46614633637091,1,1,Poor
+45,Graduate,Self-employed,Semi-urban,59.98886378081692,1,1,Medium
+43,Primary,Unemployed,Urban,56.32379915921683,1,0,Poor
+54,Primary,Self-employed,Rural,62.58410750704418,0,0,Poor
+43,No formal,Salaried,Urban,40.741202201796156,0,1,Good
+40,Graduate,Casual,Semi-urban,41.62547369080954,0,0,Poor
+26,No formal,Unemployed,Rural,33.497686505424575,0,1,Poor
+29,Primary,Casual,Rural,56.59251845930339,1,0,Poor
+18,Graduate,Casual,Semi-urban,61.68404755268171,1,1,Poor
+18,High School,Salaried,Semi-urban,56.866592992278285,0,1,Good
+51,Graduate,Casual,Semi-urban,75.11738650021306,1,1,Poor
+49,High School,Self-employed,Semi-urban,49.9160597175643,0,1,Poor
+42,High School,Casual,Semi-urban,60.03112483388769,0,0,Poor
+57,Graduate,Casual,Rural,33.624486857910284,0,0,Poor
+18,High School,Casual,Semi-urban,44.193504462883986,1,1,Poor
+33,No formal,Unemployed,Rural,60.43306636348666,1,1,Poor
+56,Primary,Unemployed,Rural,62.73653166114716,1,0,Poor
+22,High School,Self-employed,Semi-urban,45.59049578503726,1,0,Medium
+39,No formal,Self-employed,Semi-urban,48.926011222129,0,1,Poor
+46,High School,Unemployed,Rural,27.23189379978786,1,1,Poor
+20,Primary,Self-employed,Semi-urban,44.64456198790086,1,1,Medium
+29,No formal,Unemployed,Semi-urban,63.35574745279679,1,1,Poor
+43,Primary,Salaried,Semi-urban,58.628075241598495,0,1,Good
+33,Primary,Casual,Urban,57.50998582071814,0,0,Poor
+54,No formal,Casual,Rural,50.746605307714404,1,1,Poor
+39,No formal,Self-employed,Urban,50.105947379422645,1,0,Medium
+46,No formal,Unemployed,Semi-urban,40.09518290789829,1,0,Poor
+31,Graduate,Unemployed,Urban,60.482426303038025,1,0,Poor
+45,No formal,Self-employed,Semi-urban,56.314594165840845,0,1,Poor
+22,No formal,Unemployed,Urban,57.38028271989199,1,0,Poor
+47,No formal,Salaried,Semi-urban,42.10947735998629,1,0,Good
+22,No formal,Casual,Urban,17.699856201931333,1,0,Poor
+29,High School,Self-employed,Urban,66.45729067630543,0,0,Poor
+33,Graduate,Self-employed,Urban,42.81743815987394,0,1,Poor
+43,Primary,Unemployed,Rural,37.058363539353195,1,1,Poor
+43,No formal,Self-employed,Urban,60.4021836787099,1,0,Medium
+38,High School,Salaried,Rural,44.11981040121306,1,0,Good
+56,High School,Unemployed,Semi-urban,65.89904576069932,1,1,Poor
+53,High School,Unemployed,Urban,59.25508924365046,1,1,Poor
+50,Primary,Unemployed,Semi-urban,60.253539848007165,0,1,Poor
+47,No formal,Unemployed,Semi-urban,29.510664331991986,0,0,Poor
+54,Graduate,Salaried,Urban,68.179159780796,0,1,Good
+40,Graduate,Unemployed,Rural,53.91875796850784,1,0,Poor
+27,High School,Self-employed,Urban,44.460842911306955,0,0,Poor
+22,Primary,Salaried,Semi-urban,52.15082701013377,0,1,Good
+53,Primary,Casual,Semi-urban,23.3564715065252,0,0,Poor
+51,Primary,Casual,Urban,56.12979217221006,1,1,Poor
+48,Graduate,Self-employed,Rural,34.559427377268925,1,0,Medium
+27,High School,Self-employed,Rural,29.709945712346983,0,1,Poor
+36,No formal,Salaried,Semi-urban,27.164612206731633,1,0,Good
+49,Graduate,Casual,Semi-urban,66.69032562484888,0,0,Poor
+18,High School,Casual,Rural,40.561049094608165,0,1,Poor
+22,High School,Casual,Urban,73.00591564874749,0,1,Poor
+21,No formal,Casual,Semi-urban,41.96297805421553,0,1,Poor
+33,No formal,Casual,Rural,24.3896306361058,1,1,Poor
+41,No formal,Unemployed,Semi-urban,33.25213340077011,1,0,Poor
+33,Primary,Self-employed,Urban,68.53717430010408,1,1,Medium
+19,No formal,Unemployed,Rural,47.66152733094999,1,1,Poor
+45,High School,Casual,Semi-urban,41.77569055264099,0,0,Poor
+49,No formal,Salaried,Urban,52.40027338779181,1,1,Good
+44,High School,Salaried,Semi-urban,57.52674104251317,0,1,Good
+37,Graduate,Casual,Urban,66.76098223853691,1,0,Poor
+41,Primary,Casual,Urban,71.7274884483939,1,1,Poor
+29,Graduate,Salaried,Rural,44.60347031316371,1,1,Good
+52,Graduate,Unemployed,Urban,30.109284708769426,0,1,Poor
+50,High School,Unemployed,Semi-urban,43.79802258315086,0,1,Poor
+50,Graduate,Casual,Urban,53.90420759874329,0,1,Poor
+54,High School,Unemployed,Urban,35.54361610684084,0,1,Poor
+29,No formal,Salaried,Rural,35.642736276574354,1,0,Good
+20,No formal,Unemployed,Urban,55.15681822324828,0,1,Poor
+18,High School,Casual,Urban,49.270214726443236,0,0,Poor
+50,No formal,Salaried,Semi-urban,50.4919549311738,1,0,Good
+57,Primary,Unemployed,Rural,38.62256997949896,1,0,Poor
+27,Graduate,Self-employed,Rural,46.54398928691349,0,0,Poor
+46,Primary,Salaried,Rural,36.136502835975435,1,1,Good
+30,Graduate,Salaried,Urban,63.3529761668718,0,1,Good
+29,No formal,Self-employed,Rural,65.52874002085629,1,1,Medium
+48,Primary,Self-employed,Urban,22.30718206642859,0,0,Poor
+19,No formal,Salaried,Urban,36.05733709711385,0,1,Good
+52,Graduate,Self-employed,Semi-urban,27.552061173648813,0,1,Poor
+40,High School,Casual,Semi-urban,40.249640983896526,0,1,Poor
+34,High School,Casual,Semi-urban,48.748430453144586,0,0,Poor
+43,Primary,Casual,Semi-urban,28.25532170452205,1,0,Poor
+25,No formal,Salaried,Semi-urban,36.1721028031203,0,1,Good
+46,No formal,Self-employed,Urban,34.94063941877752,0,0,Poor
+43,Primary,Self-employed,Urban,53.10900994098416,0,0,Poor
+27,High School,Unemployed,Rural,51.04016505554375,0,1,Poor
+43,Graduate,Unemployed,Urban,39.1739366999412,0,0,Poor
+51,Primary,Self-employed,Urban,52.65231308209097,1,0,Medium
+58,Graduate,Self-employed,Semi-urban,41.79979873119102,1,1,Medium
+24,High School,Self-employed,Urban,45.9251733451092,0,0,Poor
+21,No formal,Salaried,Semi-urban,75.10178135447805,1,0,Good
+28,High School,Self-employed,Rural,70.10691577685522,0,0,Poor
+46,Primary,Unemployed,Rural,30.506281446086035,1,0,Poor
+53,No formal,Salaried,Urban,62.44598626818762,1,0,Good
+42,Primary,Self-employed,Rural,62.170948317373885,0,0,Poor
+38,Primary,Unemployed,Urban,32.776050668710724,1,0,Poor
+53,High School,Salaried,Rural,62.28166465632291,1,0,Good
+27,Primary,Self-employed,Semi-urban,73.06897877618829,0,1,Poor
+54,High School,Self-employed,Semi-urban,33.16182790633379,0,1,Poor
+26,No formal,Self-employed,Semi-urban,36.237457684786044,1,1,Medium
+41,High School,Salaried,Semi-urban,65.26492200265254,1,1,Good
+52,No formal,Unemployed,Urban,54.07242966238472,1,0,Poor
+52,High School,Unemployed,Rural,58.27214412859285,0,1,Poor
+53,Graduate,Casual,Urban,55.10883824600745,1,1,Poor
+35,Graduate,Self-employed,Semi-urban,55.86043881392216,1,0,Medium
+56,Primary,Casual,Urban,30.102918075333754,1,0,Poor
+49,High School,Casual,Rural,65.70976559932173,0,0,Poor
+41,High School,Unemployed,Urban,67.54384988641661,0,0,Poor
+40,No formal,Salaried,Rural,46.559138838979585,0,0,Good
+49,Primary,Salaried,Urban,49.34784575279206,0,1,Good
+54,High School,Unemployed,Rural,27.03338746166417,1,0,Poor
+29,Primary,Salaried,Rural,57.71382134026752,0,1,Good
+30,Graduate,Casual,Semi-urban,58.58086162571216,1,1,Poor
+40,High School,Self-employed,Rural,49.067134745010335,1,0,Medium
+42,High School,Unemployed,Semi-urban,66.86530039805754,1,1,Poor
+52,Primary,Self-employed,Semi-urban,44.98884153530089,1,1,Medium
+58,High School,Salaried,Semi-urban,58.469088888404,0,0,Good
+47,Primary,Self-employed,Urban,34.705034919618264,0,1,Poor
+34,High School,Salaried,Urban,49.64671773688643,0,1,Good
+37,No formal,Salaried,Urban,47.384686131457464,0,1,Good
+42,Primary,Casual,Urban,53.37961883061412,0,0,Poor
+39,High School,Salaried,Rural,44.45709606749962,1,0,Good
+30,Graduate,Casual,Rural,48.027911064924986,0,0,Poor
+36,High School,Casual,Urban,62.3907075716226,0,1,Poor
+53,Graduate,Casual,Rural,43.44853644142674,0,0,Poor
+29,Graduate,Unemployed,Rural,25.90134348891981,0,1,Poor
+58,No formal,Unemployed,Semi-urban,76.24375856308131,1,0,Poor
+36,Primary,Salaried,Semi-urban,70.72181118035729,1,1,Good
+29,High School,Casual,Semi-urban,30.616059573415722,1,0,Poor
+26,No formal,Unemployed,Semi-urban,60.34561707867792,1,0,Poor
+24,High School,Casual,Rural,42.455378441729856,1,1,Poor
+45,Graduate,Self-employed,Urban,53.952308229965894,0,0,Poor
+31,Primary,Self-employed,Rural,54.4133619352024,1,1,Medium
+48,High School,Self-employed,Rural,46.48388299525517,1,0,Medium
+36,High School,Salaried,Rural,38.24351501620406,1,0,Good
+33,Graduate,Casual,Semi-urban,39.64188421525611,0,1,Poor
+22,High School,Self-employed,Semi-urban,36.257121267781365,0,1,Poor
+52,High School,Unemployed,Semi-urban,37.522666876543326,1,1,Poor
+29,Graduate,Self-employed,Urban,48.99232564925967,0,0,Poor
+42,No formal,Self-employed,Rural,39.26360016333872,0,1,Poor
+38,Graduate,Self-employed,Urban,60.2307809856893,1,0,Medium
+53,No formal,Salaried,Semi-urban,72.30869233003891,0,1,Good
+40,Primary,Unemployed,Urban,41.29920137944936,0,1,Poor
+33,No formal,Casual,Rural,53.591067508030655,0,1,Poor
+56,No formal,Unemployed,Rural,57.49527665454401,1,1,Poor
+59,Primary,Casual,Semi-urban,57.080034063789114,1,1,Poor
+56,No formal,Salaried,Semi-urban,51.139329018741314,1,1,Good
+31,Graduate,Salaried,Urban,61.140236275395836,0,0,Good
+48,No formal,Salaried,Semi-urban,57.23373429020986,1,1,Good
+22,Primary,Salaried,Semi-urban,31.43506366509053,0,0,Good
+52,Graduate,Casual,Rural,63.0373409658391,0,1,Poor
+40,Primary,Self-employed,Semi-urban,63.30936255900113,0,1,Poor
+46,Primary,Casual,Semi-urban,38.550708437321276,1,1,Poor
+28,High School,Unemployed,Rural,50.56906753171403,1,0,Poor
+35,High School,Salaried,Rural,60.24993489216604,1,0,Good
+29,Primary,Salaried,Urban,46.86029270630958,1,1,Good
+26,Primary,Unemployed,Semi-urban,66.09467071649019,0,0,Poor
+27,Primary,Casual,Rural,85.45808741929042,1,1,Poor
+34,High School,Self-employed,Urban,38.210209510475266,0,1,Poor
+55,High School,Self-employed,Urban,29.284330952693377,1,0,Medium
+24,No formal,Unemployed,Semi-urban,54.55727893407314,1,0,Poor
+30,No formal,Self-employed,Semi-urban,60.823437576892154,1,0,Medium
+57,Primary,Casual,Urban,46.53700439232846,0,0,Poor
+59,Graduate,Casual,Rural,71.79890994981551,0,1,Poor
+26,Graduate,Unemployed,Urban,29.920913004151267,0,0,Poor
+44,High School,Casual,Semi-urban,60.393779345474165,0,0,Poor
+19,High School,Salaried,Rural,40.9120876886166,0,1,Good
+22,High School,Unemployed,Rural,75.79066859310944,1,0,Poor
+46,Primary,Casual,Urban,79.88773029752177,0,0,Poor
+54,Graduate,Unemployed,Semi-urban,38.500151183249784,0,0,Poor
+55,No formal,Self-employed,Urban,41.7566429613713,0,0,Poor
+36,Primary,Casual,Urban,62.89381830469703,0,1,Poor
+25,No formal,Salaried,Urban,44.19304025315728,1,1,Good
+18,No formal,Casual,Rural,49.318831731016424,0,0,Poor
+39,Primary,Unemployed,Rural,50.38082630813615,1,0,Poor
+34,No formal,Unemployed,Semi-urban,21.204902657035156,1,1,Poor
+24,Graduate,Casual,Semi-urban,49.79243380858644,1,0,Poor
+42,No formal,Salaried,Urban,39.654083389037396,0,0,Good
+21,Graduate,Salaried,Urban,42.60315766400342,1,0,Good
+53,Graduate,Salaried,Urban,71.65448005203221,0,0,Good
+23,Graduate,Unemployed,Semi-urban,31.152396585811154,0,0,Poor
+48,High School,Casual,Rural,62.19807780121966,0,0,Poor
+36,No formal,Self-employed,Rural,45.81555604502287,0,0,Poor
+56,Primary,Unemployed,Urban,45.80359747256249,0,0,Poor
+44,Primary,Salaried,Urban,61.85557844077567,1,0,Good
+27,No formal,Casual,Urban,55.10076941853336,1,1,Poor
+43,High School,Salaried,Urban,58.55919495829296,0,1,Good
+36,High School,Self-employed,Semi-urban,64.52276990799291,1,1,Medium
+56,Graduate,Salaried,Rural,45.030374252250155,0,0,Good
+20,No formal,Salaried,Urban,40.81644898238375,1,0,Good
+30,No formal,Self-employed,Semi-urban,33.72274210163303,1,1,Medium
+45,Primary,Casual,Urban,37.61884205031567,1,0,Poor
+37,No formal,Unemployed,Urban,94.23641637963088,1,1,Poor
+45,High School,Casual,Rural,68.67019371105181,1,0,Poor
+25,No formal,Self-employed,Urban,29.73388450687968,0,1,Poor
+58,Primary,Salaried,Rural,30.163130648846447,0,1,Good
+56,Graduate,Casual,Rural,57.22799092577737,1,1,Poor
+18,Primary,Unemployed,Rural,58.2089719606695,0,0,Poor
+20,Primary,Self-employed,Semi-urban,58.233257529760465,1,1,Medium
+30,Graduate,Casual,Semi-urban,46.175663096694535,0,0,Poor
+45,Primary,Unemployed,Rural,48.118186099956496,1,0,Poor
+42,Primary,Self-employed,Urban,54.91819286239036,1,0,Medium
+50,No formal,Unemployed,Rural,51.28839509439996,1,0,Poor
+55,No formal,Self-employed,Urban,16.71049440878697,0,0,Poor
+23,Graduate,Salaried,Rural,46.553005541372094,0,0,Good
+49,No formal,Casual,Urban,37.2289034860953,1,0,Poor
+38,No formal,Unemployed,Semi-urban,52.62817128362768,1,1,Poor
+33,Primary,Self-employed,Urban,94.77888503905115,0,1,Poor
+38,High School,Unemployed,Rural,55.51222498211457,0,1,Poor
+28,No formal,Unemployed,Semi-urban,45.297054707414034,0,0,Poor
+54,High School,Casual,Urban,63.827022529658784,0,0,Poor
+53,No formal,Salaried,Urban,57.24031830813819,0,0,Good
+52,No formal,Unemployed,Urban,56.30141735677762,1,0,Poor
+36,Graduate,Self-employed,Urban,59.10275889823507,0,1,Poor
+37,Graduate,Self-employed,Urban,80.84815347244312,1,0,Medium
+35,Graduate,Salaried,Semi-urban,33.03667347011127,1,1,Good
+58,High School,Self-employed,Semi-urban,57.104481152171815,0,0,Poor
+31,Primary,Salaried,Semi-urban,36.10428305027692,0,1,Good
+32,No formal,Self-employed,Semi-urban,58.33268969513372,1,0,Medium
+48,No formal,Casual,Rural,36.21970232770858,0,1,Poor
+18,No formal,Unemployed,Semi-urban,43.73949779592373,1,0,Poor
+20,High School,Casual,Urban,45.57365128643141,0,1,Poor
+33,Graduate,Unemployed,Urban,64.63725079017064,0,0,Poor
+40,Primary,Unemployed,Semi-urban,63.77681665913621,0,1,Poor
+28,High School,Unemployed,Urban,31.314239353304234,1,1,Poor
+29,Graduate,Casual,Semi-urban,50.824011664997734,0,0,Poor
+27,High School,Unemployed,Urban,39.35630217876241,1,1,Poor
+49,Primary,Casual,Rural,31.122426339869982,0,0,Poor
+33,Graduate,Salaried,Rural,46.74474424363444,1,0,Good
+25,High School,Self-employed,Semi-urban,45.3727581731627,0,0,Poor
+55,Primary,Self-employed,Semi-urban,86.40074729518284,1,1,Medium
+29,No formal,Unemployed,Semi-urban,56.49439738041044,1,1,Poor
+41,Primary,Casual,Urban,29.33573748868644,1,0,Poor
+45,No formal,Self-employed,Semi-urban,41.52838993743587,1,0,Medium
+25,High School,Casual,Rural,65.32074943144097,1,1,Poor
+45,Graduate,Casual,Urban,81.32664159304888,1,1,Poor
+53,Graduate,Unemployed,Semi-urban,26.210250316430624,0,1,Poor
+43,High School,Self-employed,Urban,21.801134222914325,1,0,Medium
+25,Graduate,Unemployed,Urban,78.06447763057673,1,0,Poor
+45,Graduate,Unemployed,Semi-urban,55.84421266056356,1,0,Poor
+45,No formal,Self-employed,Urban,36.9756090218545,0,0,Poor
+54,High School,Self-employed,Rural,58.01943629183653,0,0,Poor
+58,Primary,Salaried,Rural,10.463783914746834,0,1,Good
+53,No formal,Salaried,Urban,50.050632598957414,1,0,Good
+44,High School,Casual,Semi-urban,54.91731759264628,0,1,Poor
+34,No formal,Self-employed,Urban,63.86405209306744,0,1,Poor
+26,Primary,Salaried,Rural,34.791560715611936,1,0,Good
+50,Primary,Casual,Urban,51.28530742105038,1,1,Poor
+37,High School,Casual,Urban,36.11863060910619,0,0,Poor
+30,Primary,Casual,Rural,53.830756335114756,1,1,Poor
+45,No formal,Salaried,Urban,36.56980516455464,1,0,Good
+46,Primary,Self-employed,Urban,43.87848741259669,1,0,Medium
+30,No formal,Unemployed,Semi-urban,35.062769078146566,1,1,Poor
+52,No formal,Casual,Semi-urban,59.76704362735485,0,0,Poor
+23,Primary,Salaried,Rural,62.87676674984998,1,1,Good
+35,High School,Salaried,Rural,46.480691450638794,0,0,Good
+22,Graduate,Unemployed,Rural,50.573569924400424,0,0,Poor
+42,Primary,Unemployed,Semi-urban,28.271128780496838,0,0,Poor
+19,No formal,Salaried,Rural,45.50485027989819,0,1,Good
+27,No formal,Self-employed,Rural,49.24693074437383,1,1,Medium
+47,Primary,Unemployed,Rural,89.31189636544963,1,0,Poor
+22,High School,Salaried,Semi-urban,33.320494613387545,1,1,Good
+50,High School,Unemployed,Urban,71.96265858128656,0,0,Poor
+18,No formal,Self-employed,Rural,64.95288160198712,0,1,Poor
+35,No formal,Casual,Urban,54.20954606735204,0,1,Poor
+49,High School,Unemployed,Rural,76.379307262927,1,0,Poor
+28,Graduate,Self-employed,Urban,55.581582089102945,0,0,Poor
+38,Primary,Salaried,Semi-urban,55.83738793501893,1,0,Good
+43,No formal,Unemployed,Semi-urban,49.20319020473682,1,0,Poor
+42,No formal,Unemployed,Rural,68.35353323627942,1,0,Poor
+39,High School,Salaried,Urban,66.44703850716326,1,1,Good
+44,Primary,Casual,Semi-urban,40.614840687556814,0,1,Poor
+30,High School,Salaried,Rural,30.211292081018488,1,0,Good
+50,Primary,Unemployed,Rural,46.955290439065145,0,0,Poor
+51,Primary,Salaried,Semi-urban,37.99942153403531,1,0,Good
+58,Primary,Self-employed,Semi-urban,49.04713138076967,0,1,Poor
+52,No formal,Salaried,Rural,68.56157202026209,0,0,Good
+18,Graduate,Unemployed,Urban,43.14047517369815,1,0,Poor
+38,High School,Salaried,Urban,49.35764928032638,1,1,Good
+23,Graduate,Casual,Urban,50.87034102212593,1,1,Poor
+45,High School,Salaried,Rural,62.72646323307927,0,1,Good
+34,Primary,Casual,Semi-urban,16.29665999023092,1,1,Poor
+22,No formal,Self-employed,Rural,40.89949557852055,1,0,Medium
+48,Graduate,Casual,Semi-urban,53.16925538419209,0,1,Poor
+22,No formal,Salaried,Urban,68.00118434640292,1,1,Good
+55,High School,Unemployed,Urban,42.621463287406925,0,0,Poor
+20,No formal,Casual,Semi-urban,21.85170940937189,1,0,Poor
+40,No formal,Self-employed,Semi-urban,59.295671689492046,0,0,Poor
+54,Graduate,Casual,Rural,40.46956416761556,0,1,Poor
+54,Primary,Casual,Urban,32.155000113644576,1,0,Poor
+27,No formal,Casual,Rural,40.63481915430164,0,1,Poor
+27,Primary,Self-employed,Rural,47.232119635162256,1,1,Medium
+36,High School,Salaried,Rural,40.92883003192681,1,1,Good
+34,No formal,Casual,Urban,16.916509143513963,0,0,Poor
+38,Graduate,Casual,Rural,63.45599295330698,1,1,Poor
+31,High School,Unemployed,Rural,69.12312561918083,0,0,Poor
+26,High School,Self-employed,Rural,59.772829870092586,0,0,Poor
+18,Graduate,Casual,Rural,32.93471494362775,0,0,Poor
+30,No formal,Self-employed,Rural,46.97762699078723,0,1,Poor
+21,No formal,Casual,Rural,49.90218027155813,0,1,Poor
+18,High School,Salaried,Urban,58.98191584342865,0,1,Good
+57,No formal,Salaried,Rural,60.02510733077121,0,0,Good
+49,Primary,Casual,Semi-urban,38.987393018322564,0,1,Poor
+51,Graduate,Salaried,Rural,51.22993334620341,1,1,Good
+45,Primary,Casual,Rural,56.85920606922862,1,1,Poor
+48,No formal,Salaried,Urban,71.83733483220149,0,1,Good
+25,High School,Unemployed,Urban,60.56759809737085,1,1,Poor
+56,Graduate,Unemployed,Semi-urban,61.835850310632786,1,0,Poor
+43,No formal,Unemployed,Semi-urban,51.257399418940416,1,0,Poor
+51,No formal,Self-employed,Urban,71.15688717805256,1,0,Medium
+20,High School,Self-employed,Urban,56.14644193939246,1,0,Medium
+29,High School,Unemployed,Rural,37.08368134739644,1,1,Poor
+18,Primary,Self-employed,Urban,71.05054955187786,0,0,Poor
+22,Graduate,Salaried,Semi-urban,60.46854908808541,1,1,Good
+47,Graduate,Casual,Rural,43.354339683072766,1,0,Poor
+47,High School,Casual,Semi-urban,42.80760548901135,1,0,Poor
+34,Primary,Casual,Rural,54.448633177111425,1,0,Poor
+40,Graduate,Unemployed,Urban,56.94777192901377,0,1,Poor
+32,High School,Self-employed,Semi-urban,52.9593839844681,0,1,Poor
+54,No formal,Salaried,Rural,54.66963010164327,0,0,Good
+38,Graduate,Salaried,Rural,75.49936061864571,0,1,Good
+31,Primary,Unemployed,Urban,66.07314728352328,1,0,Poor
+19,Primary,Salaried,Urban,52.85953386897536,0,0,Good
+28,Primary,Salaried,Urban,64.11965871151224,0,0,Good
+56,No formal,Salaried,Semi-urban,34.512141447086904,0,1,Good
+55,Graduate,Salaried,Rural,55.968905749202136,0,0,Good
+51,Graduate,Self-employed,Urban,77.13959524599665,1,0,Medium
+55,No formal,Salaried,Semi-urban,46.729311569114394,0,0,Good
+51,Graduate,Casual,Semi-urban,37.28549107071373,1,1,Poor
+35,No formal,Unemployed,Semi-urban,40.21866667110409,0,0,Poor
+47,No formal,Self-employed,Urban,33.655504439864174,1,1,Medium
+32,No formal,Salaried,Urban,38.22857137808445,1,0,Good
+44,Primary,Self-employed,Rural,44.442378521149564,0,1,Poor
+51,Graduate,Salaried,Rural,28.916494712320368,0,0,Good
+55,No formal,Casual,Urban,50.234275009244044,0,0,Poor
+50,Graduate,Unemployed,Semi-urban,63.53415760679971,0,1,Poor
+41,Primary,Salaried,Semi-urban,36.38365729779619,1,1,Good
+32,No formal,Salaried,Semi-urban,72.78925885462652,1,0,Good
+47,High School,Salaried,Rural,57.66188132791392,0,1,Good
+59,Primary,Salaried,Semi-urban,65.45870878436085,0,0,Good
+34,High School,Unemployed,Rural,40.132481692217944,1,0,Poor
+22,Graduate,Unemployed,Rural,62.81787840599924,0,0,Poor
+46,Graduate,Casual,Semi-urban,33.6209914940703,1,1,Poor
+21,Primary,Unemployed,Semi-urban,63.35371251254763,0,0,Poor
+27,Graduate,Salaried,Urban,52.577590096902966,1,1,Good
+34,High School,Casual,Urban,58.29876829977175,1,0,Poor
+27,No formal,Casual,Semi-urban,32.36608091562722,1,1,Poor
+34,No formal,Casual,Rural,36.57395236585093,1,1,Poor
+37,No formal,Salaried,Rural,58.958423273800776,1,0,Good
+41,Primary,Self-employed,Rural,35.77477993663699,0,1,Poor
+22,Graduate,Salaried,Rural,56.94809438148685,1,0,Good
+51,High School,Unemployed,Rural,29.492932903096314,0,0,Poor
+23,Graduate,Unemployed,Urban,62.72261319000002,1,0,Poor
+19,Graduate,Salaried,Semi-urban,31.512150278472365,1,0,Good
+30,Graduate,Salaried,Urban,58.28449906519285,0,0,Good
+28,No formal,Casual,Rural,59.38446400469002,0,1,Poor
+40,High School,Salaried,Rural,39.54842272355638,0,0,Good
+33,High School,Casual,Rural,58.7303985062709,0,1,Poor
+48,Graduate,Unemployed,Rural,53.90663395000334,1,1,Poor
+28,No formal,Casual,Semi-urban,41.91737215710893,0,0,Poor
+33,No formal,Salaried,Rural,34.871679738856876,1,1,Good
+25,High School,Unemployed,Semi-urban,20.560614624911313,0,0,Poor
+21,No formal,Self-employed,Rural,55.244750709495406,0,1,Poor
+57,No formal,Casual,Semi-urban,26.52795842956917,1,1,Poor
+21,No formal,Unemployed,Urban,51.430162991619625,1,1,Poor
+42,Primary,Casual,Rural,46.048276758766264,0,0,Poor
+20,Graduate,Unemployed,Semi-urban,60.18714163157293,1,1,Poor
+49,High School,Unemployed,Urban,45.469317507652036,1,0,Poor
+20,High School,Casual,Rural,45.05828320479363,1,1,Poor
+44,Primary,Self-employed,Rural,60.97806056432444,1,1,Medium
+46,Graduate,Unemployed,Rural,55.02587043626176,1,1,Poor
+49,High School,Unemployed,Semi-urban,54.74233935774167,1,1,Poor
+36,No formal,Unemployed,Semi-urban,57.03901384712789,1,0,Poor
+38,High School,Self-employed,Urban,26.966418151893414,1,0,Medium
+22,No formal,Self-employed,Semi-urban,61.35183019980473,0,1,Poor
+35,Primary,Salaried,Semi-urban,59.187031910204034,1,1,Good
+45,No formal,Casual,Rural,34.74975307135254,0,0,Poor
+59,High School,Self-employed,Rural,46.33879289488698,1,0,Medium
+39,High School,Casual,Rural,49.41039068558553,1,0,Poor
+38,High School,Salaried,Rural,47.98254823397401,1,0,Good
+23,Primary,Casual,Rural,55.00789949852802,1,1,Poor
+18,Primary,Self-employed,Rural,71.47050172746775,0,1,Poor
+22,Graduate,Casual,Rural,66.22650091509243,0,0,Poor
+58,High School,Self-employed,Urban,30.316712098528907,1,0,Medium
+29,No formal,Casual,Urban,59.33104985459073,0,0,Poor
+43,Primary,Self-employed,Urban,69.93399979303115,1,0,Medium
+51,High School,Self-employed,Urban,55.80212781033804,1,0,Medium
+31,High School,Casual,Rural,66.3647063777895,0,0,Poor
+43,Primary,Salaried,Urban,80.18405668551148,0,1,Good
+44,Graduate,Unemployed,Rural,65.35564319160471,1,1,Poor
+26,Primary,Salaried,Urban,53.739628934625934,1,1,Good
+43,Primary,Casual,Semi-urban,65.6763271112713,0,0,Poor
+39,No formal,Salaried,Urban,52.173317496453365,1,0,Good
+47,No formal,Self-employed,Urban,50.35854564927433,0,0,Poor
+34,Graduate,Unemployed,Rural,44.72878646429401,1,1,Poor
+43,High School,Casual,Urban,73.45120038248163,1,0,Poor
+53,Primary,Casual,Semi-urban,37.72357001086998,0,0,Poor
+18,Graduate,Casual,Rural,72.98551587017174,0,1,Poor
+25,No formal,Unemployed,Rural,57.49796185610557,0,0,Poor
+52,Primary,Self-employed,Urban,29.01040737797088,1,1,Medium
+32,High School,Casual,Rural,55.51473939487133,1,1,Poor
+39,No formal,Salaried,Rural,18.49960238522564,1,0,Good
+31,No formal,Casual,Rural,59.382620252465536,1,1,Poor
+43,No formal,Casual,Rural,63.278472244834866,0,0,Poor
+45,Graduate,Casual,Rural,41.1146606652192,1,1,Poor
+40,High School,Casual,Rural,51.85321543933374,1,0,Poor
+31,Primary,Self-employed,Semi-urban,79.31236150625429,1,1,Medium
+41,Graduate,Salaried,Urban,42.41379943607095,0,0,Good
+19,Graduate,Self-employed,Semi-urban,34.11638619415099,1,1,Medium
+43,Graduate,Salaried,Rural,72.22495103693899,1,1,Good
+31,No formal,Casual,Rural,79.43880785796192,0,1,Poor
+24,High School,Unemployed,Urban,50.05543507771771,1,0,Poor
+20,Graduate,Self-employed,Semi-urban,65.17194553112535,1,0,Medium
+40,Primary,Unemployed,Urban,70.12213873296321,0,1,Poor
+35,High School,Self-employed,Semi-urban,38.86273651192424,1,0,Medium
+55,Primary,Casual,Rural,42.72041246948198,1,1,Poor
+52,High School,Self-employed,Urban,68.46311769732102,1,0,Medium
+32,Primary,Casual,Urban,75.27521418062764,0,1,Poor
+42,No formal,Self-employed,Rural,58.44321290261532,1,0,Medium
+54,Graduate,Casual,Urban,36.802784697469185,1,1,Poor
+45,Primary,Casual,Semi-urban,79.80591667549162,0,1,Poor
+27,High School,Salaried,Semi-urban,42.03543653282053,0,1,Good
+56,Graduate,Casual,Semi-urban,44.97293328242822,1,1,Poor
+34,Graduate,Salaried,Semi-urban,55.135067517344325,1,0,Good
+56,High School,Casual,Rural,73.31240631072161,1,1,Poor
+39,Primary,Unemployed,Urban,62.80963964828335,1,0,Poor
+43,No formal,Casual,Semi-urban,56.222982505428654,0,0,Poor
+42,No formal,Unemployed,Rural,56.94932795177159,1,1,Poor
+34,Primary,Unemployed,Urban,50.65272002965199,0,0,Poor
+30,Graduate,Casual,Urban,58.37209271777759,0,0,Poor
+37,Graduate,Unemployed,Rural,12.056598834585458,1,0,Poor
+42,Graduate,Salaried,Rural,45.55088811395302,1,1,Good
+21,Graduate,Self-employed,Semi-urban,53.61982902375171,0,0,Poor
+27,Primary,Casual,Urban,32.73478874570739,0,0,Poor
+20,Graduate,Unemployed,Urban,55.7948497671734,1,1,Poor
+58,High School,Casual,Rural,46.932931685208175,0,1,Poor
+35,Graduate,Salaried,Urban,76.33213547473235,1,0,Good
+53,No formal,Casual,Semi-urban,73.59529587822284,1,1,Poor
+39,Graduate,Casual,Urban,43.012916463227555,0,0,Poor
+51,Primary,Unemployed,Rural,47.73743432649957,0,0,Poor
+25,No formal,Salaried,Rural,48.89078651587411,1,0,Good
+57,Primary,Self-employed,Semi-urban,43.22510785760566,0,1,Poor
+36,Primary,Self-employed,Semi-urban,52.9253747604219,1,0,Medium
+59,No formal,Unemployed,Urban,38.625768966686145,1,1,Poor
+58,Primary,Casual,Urban,33.04076997593711,1,1,Poor
+54,Primary,Unemployed,Rural,59.34066835850403,0,0,Poor
+23,Graduate,Unemployed,Semi-urban,59.442943763327165,1,1,Poor
+43,High School,Unemployed,Semi-urban,37.93526360510012,1,1,Poor
+51,Primary,Casual,Semi-urban,63.430331461438996,1,1,Poor
+23,Primary,Salaried,Urban,40.52633406252003,1,1,Good
+54,Primary,Unemployed,Semi-urban,53.797478570569716,1,1,Poor
+50,Graduate,Casual,Rural,62.30516018918684,1,0,Poor
+39,High School,Salaried,Rural,49.4958115294443,1,1,Good
+38,No formal,Unemployed,Urban,56.821113682117016,1,0,Poor
+23,Graduate,Self-employed,Urban,42.25355534168642,1,0,Medium
+23,Graduate,Salaried,Semi-urban,47.05300124857854,1,0,Good
+21,High School,Unemployed,Urban,46.9121085367949,1,0,Poor
+47,High School,Salaried,Rural,38.80132480189641,0,0,Good
+28,Graduate,Salaried,Semi-urban,47.348387553263265,1,0,Good
+47,No formal,Salaried,Rural,26.7707255170438,1,1,Good
+48,Graduate,Salaried,Semi-urban,42.63269379286843,1,1,Good
+41,High School,Salaried,Urban,45.726867599454934,0,1,Good
+26,No formal,Salaried,Semi-urban,46.1573037125693,1,0,Good
+20,High School,Unemployed,Semi-urban,46.377538311938316,0,1,Poor
+48,No formal,Self-employed,Rural,49.073537002098064,1,1,Medium
+57,Primary,Casual,Rural,57.19162277129096,1,1,Poor
+54,High School,Salaried,Semi-urban,63.11775611198784,0,0,Good
+53,High School,Casual,Urban,40.25352159727599,1,1,Poor
+41,Graduate,Unemployed,Urban,31.951987169162834,0,0,Poor
+48,High School,Salaried,Rural,34.36933381635345,0,1,Good
+23,High School,Self-employed,Urban,42.69195618207609,1,0,Medium
+19,Primary,Casual,Rural,44.72118023275236,1,0,Poor
+37,High School,Salaried,Urban,38.45005900703814,1,0,Good
+45,Primary,Unemployed,Semi-urban,30.558250036251582,1,1,Poor
+28,Primary,Self-employed,Rural,43.15818758788718,0,1,Poor
+21,Primary,Casual,Rural,52.72139930170957,0,0,Poor
+32,Primary,Casual,Semi-urban,58.925441987533475,1,1,Poor
+23,No formal,Salaried,Rural,41.63865420337518,0,0,Good
+47,Graduate,Self-employed,Urban,43.80503266784849,0,0,Poor
+55,No formal,Self-employed,Urban,36.09952536729034,1,1,Medium
+19,High School,Self-employed,Rural,49.528412444378354,0,1,Poor
+32,No formal,Self-employed,Urban,37.27357048713778,0,1,Poor
+28,No formal,Unemployed,Rural,58.596917198618,1,0,Poor
+25,High School,Self-employed,Semi-urban,23.212002620988333,0,0,Poor
+43,High School,Casual,Rural,44.60555491321306,1,1,Poor
+22,High School,Casual,Semi-urban,54.51661008787613,0,0,Poor
+23,No formal,Unemployed,Urban,52.757517744837564,1,1,Poor
+43,No formal,Casual,Semi-urban,90.39550495970745,0,0,Poor
+21,High School,Casual,Urban,55.24700036851861,0,1,Poor
+36,Graduate,Self-employed,Rural,34.93918104736984,1,1,Medium
+37,Graduate,Casual,Urban,48.5680362936639,1,0,Poor
+50,Primary,Unemployed,Rural,23.356304998003225,1,1,Poor
+37,High School,Self-employed,Rural,48.791003760548584,1,1,Medium
+29,Primary,Salaried,Semi-urban,37.50415914498862,0,0,Good
+18,Graduate,Self-employed,Semi-urban,63.730854133402424,0,1,Poor
+43,Primary,Unemployed,Semi-urban,41.756895881066974,0,0,Poor
+31,High School,Self-employed,Semi-urban,48.2485112630713,1,1,Medium
+55,High School,Self-employed,Urban,40.46663237893395,0,0,Poor
+54,High School,Unemployed,Urban,76.08277027779997,0,1,Poor
+28,No formal,Self-employed,Urban,45.18135850823133,1,1,Medium
+53,Primary,Unemployed,Rural,77.48835565218803,1,1,Poor
+30,Graduate,Unemployed,Urban,62.212276431774,0,1,Poor
+20,Graduate,Salaried,Urban,57.231000910030794,1,0,Good
+50,Graduate,Casual,Urban,55.530997209762795,0,0,Poor
+23,No formal,Casual,Semi-urban,55.906959473243774,0,0,Poor
+27,No formal,Self-employed,Urban,21.08491130981585,1,0,Medium
+22,High School,Self-employed,Rural,45.81674908773865,0,0,Poor
+40,Graduate,Salaried,Semi-urban,62.67736956776483,1,0,Good
+27,No formal,Salaried,Rural,49.26654224788842,1,0,Good
+19,High School,Salaried,Urban,28.922152297946376,0,1,Good
+30,Graduate,Unemployed,Semi-urban,49.213933241337955,0,1,Poor
+57,Primary,Salaried,Rural,75.56158274383236,0,1,Good
+19,High School,Salaried,Urban,68.70337573302079,1,1,Good
+37,No formal,Self-employed,Rural,49.069939859509525,0,0,Poor
+18,No formal,Salaried,Rural,64.2717391558713,1,0,Good
+54,High School,Unemployed,Rural,44.50239469447922,1,0,Poor
+26,High School,Unemployed,Urban,24.441926197599216,0,1,Poor
+34,No formal,Self-employed,Urban,36.133010178056686,1,0,Medium
+26,Primary,Salaried,Rural,73.44333152762297,0,1,Good
+28,Graduate,Salaried,Semi-urban,45.89010377256044,0,0,Good
+32,Primary,Unemployed,Semi-urban,46.34924030937473,0,0,Poor
+41,High School,Salaried,Urban,45.502427055876794,0,0,Good
+55,Primary,Salaried,Urban,78.56204884359511,0,0,Good
+52,No formal,Salaried,Urban,74.38938373043095,0,1,Good
+47,High School,Casual,Urban,83.281703501722,0,1,Poor
+48,Graduate,Self-employed,Urban,47.61432184399923,1,0,Medium
+22,No formal,Casual,Semi-urban,54.434367331206424,0,1,Poor
+31,No formal,Self-employed,Urban,27.250361758688133,1,0,Medium
+28,Graduate,Unemployed,Rural,72.15401639177412,1,0,Poor
+26,Graduate,Salaried,Rural,32.48330673098097,1,0,Good
+51,Primary,Self-employed,Semi-urban,53.251633456439436,0,0,Poor
+29,High School,Casual,Rural,33.54046208550734,1,1,Poor
+52,Graduate,Salaried,Semi-urban,41.16699759891956,1,0,Good
+52,Graduate,Unemployed,Semi-urban,37.441063534254496,0,0,Poor
+18,High School,Self-employed,Rural,40.881871089862734,0,1,Poor
+57,Graduate,Self-employed,Urban,41.91315945276532,1,0,Medium
+39,Graduate,Self-employed,Rural,41.775968076123846,0,1,Poor
+46,Primary,Salaried,Rural,62.50000867670461,0,0,Good
+25,No formal,Casual,Semi-urban,33.4270581040622,0,0,Poor
+28,No formal,Casual,Rural,53.308121405208006,0,0,Poor
+58,No formal,Self-employed,Semi-urban,68.26938728458337,1,0,Medium
+54,No formal,Unemployed,Urban,42.30205453229906,0,0,Poor
+31,Graduate,Unemployed,Urban,39.23121663878597,0,0,Poor
+47,High School,Casual,Urban,46.542130622296234,0,1,Poor
+52,High School,Unemployed,Rural,67.69587812541064,1,0,Poor
+38,Primary,Casual,Semi-urban,52.911614464300364,1,1,Poor
+54,Primary,Self-employed,Urban,42.03178558088602,0,1,Poor
+22,Graduate,Casual,Semi-urban,57.2581497678206,0,0,Poor
+36,High School,Casual,Semi-urban,33.46561775245365,1,1,Poor
+31,High School,Self-employed,Urban,60.22039265664422,0,0,Poor
+43,No formal,Unemployed,Urban,56.12910961552652,0,1,Poor
+21,Graduate,Casual,Semi-urban,45.38287293291674,1,0,Poor
+42,Graduate,Casual,Urban,37.421213023291536,0,1,Poor
+59,No formal,Self-employed,Semi-urban,36.69978616574814,0,1,Poor
+42,Graduate,Unemployed,Semi-urban,58.02226004518865,1,0,Poor
+35,Graduate,Casual,Urban,68.43470753733592,1,1,Poor
+57,Primary,Self-employed,Rural,40.44038379456808,0,0,Poor
+25,High School,Casual,Urban,56.87580055327226,1,0,Poor
+56,Graduate,Salaried,Rural,18.69459472096897,0,0,Good
+57,Primary,Self-employed,Semi-urban,41.23073404014201,0,0,Poor
+31,High School,Unemployed,Semi-urban,49.53411600693647,0,0,Poor
+49,No formal,Unemployed,Rural,36.354748745272495,1,1,Poor
+55,Primary,Unemployed,Semi-urban,35.95240437815606,1,1,Poor
+50,Primary,Unemployed,Rural,39.983306652966704,0,1,Poor
+40,High School,Casual,Rural,54.3828909248956,0,0,Poor
+32,No formal,Casual,Semi-urban,47.19006472390438,1,1,Poor
+50,Primary,Unemployed,Rural,16.42653150012542,1,1,Poor
+42,Graduate,Unemployed,Urban,18.189497710474008,1,1,Poor
+34,Graduate,Unemployed,Urban,40.89702233214237,0,1,Poor
+50,Graduate,Casual,Semi-urban,56.86529879080328,1,1,Poor
+19,No formal,Unemployed,Semi-urban,8.78742735912148,1,0,Poor
+31,Primary,Unemployed,Rural,42.50404735772554,0,0,Poor
+57,Graduate,Salaried,Rural,42.106282152238684,0,1,Good
+57,No formal,Salaried,Rural,70.82506667312671,0,0,Good
+56,Graduate,Unemployed,Rural,44.22467282430705,1,0,Poor
+23,High School,Self-employed,Urban,55.74483477111393,0,1,Poor
+23,Primary,Unemployed,Urban,52.118857101311946,0,1,Poor
+20,Primary,Salaried,Semi-urban,18.04150280289199,0,0,Good
+24,No formal,Self-employed,Rural,61.52310824947606,0,1,Poor
+25,No formal,Self-employed,Rural,53.23094758184432,1,0,Medium
+59,Primary,Unemployed,Semi-urban,57.62402959511884,0,0,Poor
+32,Graduate,Salaried,Rural,108.8935655965449,1,1,Good
+46,Graduate,Salaried,Rural,18.738305907521173,1,0,Good
+50,High School,Self-employed,Rural,75.87044974641663,1,0,Medium
+47,Graduate,Unemployed,Rural,45.688287208994666,0,0,Poor
+56,No formal,Casual,Rural,54.30993356604514,1,1,Poor
+44,No formal,Casual,Semi-urban,49.31731632048137,0,1,Poor
+53,Graduate,Salaried,Rural,43.63645499902935,0,1,Good
+46,No formal,Casual,Semi-urban,41.452506076418615,0,1,Poor
+55,Primary,Salaried,Rural,54.942631033595134,1,0,Good
+50,Primary,Salaried,Urban,27.242394549924814,0,1,Good
+54,Graduate,Salaried,Urban,61.258687512826484,0,1,Good
+44,Primary,Casual,Urban,43.757083926721194,0,1,Poor
+50,Primary,Salaried,Urban,33.04895991439463,1,1,Good
+21,High School,Self-employed,Semi-urban,43.24980713006279,1,0,Medium
+39,High School,Unemployed,Semi-urban,68.8572382529386,1,0,Poor
+19,Primary,Unemployed,Rural,41.96997369475665,0,0,Poor
+27,Graduate,Salaried,Urban,55.3768042731443,1,1,Good
+22,High School,Unemployed,Semi-urban,39.0356558642679,0,1,Poor
+27,No formal,Casual,Rural,61.368827748854294,0,0,Poor
+50,No formal,Casual,Rural,60.282616081853064,1,1,Poor
+55,No formal,Unemployed,Semi-urban,77.72913249944617,0,1,Poor
+30,Graduate,Casual,Urban,47.36654081751177,1,0,Poor
+48,Primary,Unemployed,Rural,60.0298220713686,0,0,Poor
+53,No formal,Unemployed,Urban,51.47101309308417,1,1,Poor
+41,Graduate,Unemployed,Urban,69.43807672794522,0,1,Poor
+32,High School,Salaried,Urban,39.21751418586904,0,1,Good
+46,Primary,Unemployed,Rural,61.17507969315922,0,0,Poor
+25,High School,Salaried,Urban,47.079540558249775,0,0,Good
+22,Graduate,Unemployed,Rural,49.037177343372534,0,0,Poor
